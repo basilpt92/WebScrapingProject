@@ -1,0 +1,18 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Subaru,Hibari Misora Cover Song Collection,Hibari Misora,2008-05-28,270533,0,0.372,0.806,0.372,0.258,0.00112,0.113,-13.305,0.0298,80.06,4
+1,Kimi Ga Yo (Japan),National Anthems Of The World (Digitally Remastered),Vienna State Opera Orchestra,2008-12-03,60440,0,0.336,0.87,0.336,0.215,0.957,0.101,-7.448,0.0363,65.3,3
+2,風をあつめて,ナチュラル・カラーズ,Priscilla Ahn,2012-06-22,250946,20,0.72,0.193,0.72,0.416,0.218,0.139,-11.009,0.0272,92.974,4
+3,インベーダーインベーダー,インベーダーインベーダー,Kyary Pamyu Pamyu,2013-05-15,251742,18,0.536,0.0406,0.536,0.923,1.83e-06,0.0745,-1.546,0.0404,160.0,4
+4,Left My Heart In Tokyo,Left My Heart In Tokyo,Mini Viva,2009-01-01,228746,38,0.688,0.0179,0.688,0.938,0.0,0.0608,-3.964,0.0849,127.043,4
+5,Tokyo (Vampires & Wolves),Tokyo (Vampires & Wolves),The Wombats,2007,231377,38,0.452,0.000408,0.452,0.928,0.0,0.315,-5.277,0.0802,146.288,4
+6,Unite!,Anime Parade Vol. 2,Banzai Bonsai Tensai,2008-03-01,295160,0,0.462,1.7e-05,0.462,0.962,0.839,0.0666,-6.599,0.0376,137.96,4
+7,Fast Car Drive,Desintegration,Yolz In The Sky,2012-03-14,577826,0,0.681,0.0489,0.681,0.95,0.844,0.0668,-6.555,0.158,125.017,4
+8,Yuki,White Fields & Open Devices,Vessels,2008-08-18,286920,9,0.444,0.448,0.444,0.362,0.932,0.111,-11.884,0.0332,141.013,4
+9,Nothing But A Good Time,Reach For The Sky,Broken Doll,2012-04-11,229920,0,0.374,6.29e-05,0.374,0.782,0.0428,0.0697,-2.78,0.0387,130.025,4
+10,Sugar Rush,Wreck-It Ralph (Original Motion Picture Soundtrack),Various Artists,2012-01-01,196826,19,0.587,3.35e-05,0.587,0.875,1.06e-05,0.0424,-3.545,0.0331,132.031,4
+11,WHAT'S MY NAME?,WHAT'S MY NAME?,MIYAVI,2010-10-08,207000,31,0.454,0.0324,0.454,0.983,0.00452,0.0991,-2.037,0.204,144.912,4
+12,ハピネス,INDEPENDENT,AI,2012-02-24,255760,18,0.642,0.0948,0.642,0.914,0.0,0.365,-3.316,0.115,94.004,4
+13,インベーダーインベーダー,インベーダーインベーダー,Kyary Pamyu Pamyu,2013-05-15,251742,18,0.536,0.0406,0.536,0.923,1.83e-06,0.0745,-1.546,0.0404,160.0,4
+14,さつきあめ,さつきあめ,BENI,2013-01-01,283346,2,0.466,0.585,0.466,0.588,0.0,0.231,-3.583,0.0409,151.455,4
+15,Don't Give Up!,Come Rain Come Shine,HOTEI,2013,276266,0,0.454,0.00404,0.454,0.858,0.0262,0.133,-3.807,0.0664,169.987,4
+16,Forever,VIVID,Crystal Kay,2012-01-01,256466,0,0.666,0.128,0.666,0.92,0.0,0.0987,-4.639,0.132,125.96,4

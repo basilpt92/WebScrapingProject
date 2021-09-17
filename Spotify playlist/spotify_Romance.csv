@@ -1,0 +1,63 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Wonderful Tonight,Slowhand 35th Anniversary (Super Deluxe),Eric Clapton,1977-11-01,225026,74,0.572,0.649,0.572,0.214,0.129,0.125,-15.625,0.0293,95.542,4
+1,Perfect,÷ (Deluxe),Ed Sheeran,2017-03-03,263400,85,0.599,0.163,0.599,0.448,0.0,0.106,-6.312,0.0232,95.05,3
+2,All of Me,Love In The Future (Expanded Edition),John Legend,2013-08-30,269560,84,0.422,0.922,0.422,0.264,0.0,0.132,-7.064,0.0322,119.93,4
+3,(Everything I Do) I Do It For You,Waking Up The Neighbours,Bryan Adams,1991-09-24,393640,75,0.533,0.0805,0.533,0.36,1.03e-05,0.0631,-12.633,0.0282,131.229,4
+4,(I Can't Help) Falling In Love With You,Promises And Lies,UB40,1993-01-01,207440,68,0.642,0.0444,0.642,0.722,0.00388,0.122,-13.031,0.0375,172.406,4
+5,I Will Always Love You,The Bodyguard - Original Soundtrack Album,Whitney Houston,1992-11-17,271093,75,0.332,0.845,0.332,0.214,5.62e-06,0.0839,-12.518,0.0349,67.531,4
+6,How Deep Is Your Love,Greatest,Bee Gees,1979-01-01,245200,73,0.633,0.105,0.633,0.357,0.0,0.133,-9.366,0.0264,104.938,4
+7,I Just Can't Stop Loving You (feat. Siedah Garrett) - 2012 Remaster,Bad 25th Anniversary,Michael Jackson,1987-08-31,251760,64,0.657,0.667,0.657,0.467,1.92e-06,0.0295,-8.925,0.0341,100.139,4
+8,"Because You Loved Me (Theme from ""Up Close and Personal"")",Falling into You,Céline Dion,1996-02-28,273666,72,0.615,0.314,0.615,0.467,0.0,0.099,-9.883,0.0327,119.919,4
+9,Thinking out Loud,x (Deluxe Edition),Ed Sheeran,2014-06-21,281560,82,0.781,0.474,0.781,0.445,0.0,0.184,-6.061,0.0295,78.998,4
+10,Endless Love,Back To Front,Lionel Richie,1992-01-01,266800,69,0.483,0.866,0.483,0.268,0.0163,0.145,-11.809,0.0257,93.47,4
+11,Your Song,Elton John,Elton John,1970-04-10,241786,77,0.554,0.828,0.554,0.315,5.53e-06,0.101,-11.028,0.0298,128.157,4
+12,Unchained Melody,Just Once In My Life,The Righteous Brothers,1965-04-04,218013,72,0.339,0.396,0.339,0.208,0.000519,0.18,-16.725,0.0308,98.54,3
+13,I Knew I Loved You,Affirmation,Savage Garden,1999-11-09,250360,68,0.61,0.32,0.61,0.497,6.11e-05,0.0884,-9.88,0.0279,85.031,4
+14,"(I've Had) The Time of My Life - From ""Dirty Dancing"" Soundtrack",LOVE,Various Artists,2009-02-09,289066,57,0.7,0.0869,0.7,0.781,0.00342,0.059,-8.255,0.0507,108.694,4
+15,A Groovy Kind of Love,Love Songs (A Compilation Old and New),Phil Collins,2004-09-14,210733,66,0.452,0.235,0.452,0.306,1.91e-05,0.0989,-9.632,0.0274,144.125,4
+16,Anyone,Anyone,Justin Bieber,2021-01-01,190779,79,0.686,0.181,0.686,0.538,3.13e-06,0.113,-8.026,0.0345,115.884,4
+17,You Are so Beautiful,Organic,Joe Cocker,1996-10-29,163600,54,0.507,0.797,0.507,0.113,0.000592,0.166,-10.781,0.0429,118.469,4
+18,Truly Madly Deeply,Savage Garden,Savage Garden,1997-03-04,277266,72,0.555,0.403,0.555,0.698,0.0,0.0851,-8.874,0.0287,168.12,4
+19,The Lady In Red,Into The Light,Chris de Burgh,1986-01-01,256173,73,0.548,0.332,0.548,0.294,3.34e-06,0.0392,-17.112,0.0333,76.698,4
+20,Heaven,Reckless,Bryan Adams,1984-01-01,243693,0,0.394,0.0492,0.394,0.398,0.0,0.115,-13.874,0.0262,69.979,4
+21,All My Life - Radio Edit,Cool - R&B,Various Artists,2009-01-01,220253,44,0.658,0.0431,0.658,0.618,0.0,0.111,-6.896,0.0285,128.059,4
+22,I'll Make Love To You,II,Boyz II Men,1994-08-30,236760,65,0.559,0.103,0.559,0.49,0.0,0.099,-8.06,0.0247,142.447,3
+23,Right Here Waiting,Repeat Offender,Richard Marx,1989-01-01,264333,74,0.395,0.8,0.395,0.252,0.0,0.101,-13.589,0.0301,177.679,4
+24,By Your Side,Lovers Rock,Sade,2000,274600,0,0.653,0.0901,0.653,0.433,0.00394,0.0765,-10.487,0.0295,146.097,4
+25,You & I (Nobody in the World),Love In The Future (Expanded Edition),John Legend,2013-08-30,252653,63,0.456,0.129,0.456,0.342,0.0,0.124,-8.162,0.0283,84.087,4
+26,Just the Way You Are,The Stranger (Legacy Edition),Billy Joel,1977,290573,68,0.589,0.703,0.589,0.453,2.54e-05,0.134,-8.912,0.0397,139.148,4
+27,Mandy,Ultimate Manilow,Barry Manilow,2002-02-04,197733,54,0.325,0.373,0.325,0.421,1.03e-06,0.126,-8.859,0.0278,104.146,4
+28,"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack",Armageddon - The Album,Various Artists,1998-06-23,298760,73,0.383,0.165,0.383,0.662,0.0,0.248,-5.162,0.0333,121.154,4
+29,If I Ain't Got You,The Diary Of Alicia Keys,Alicia Keys,2003-12-02,228706,78,0.609,0.603,0.609,0.444,6.86e-06,0.104,-9.129,0.106,118.402,3
+30,I'll Be There,Third Album,The Jackson 5,1970-09-08,237760,65,0.51,0.593,0.51,0.515,1.24e-06,0.654,-7.247,0.0253,93.212,4
+31,Stand by Me,Don't Play That Song (Mono),Ben E. King,1962-08-20,180055,76,0.65,0.57,0.65,0.306,7.07e-06,0.0707,-9.443,0.0393,118.068,4
+32,Please Keep Loving Me,Please Keep Loving Me,James TW,2017-07-28,195920,0,0.553,0.127,0.553,0.482,1.3e-06,0.108,-8.426,0.0654,176.045,4
+33,Just the Two of Us (feat. Bill Withers),Anthology,"Grover Washington, Jr.",1985,237106,77,0.802,0.572,0.802,0.488,0.0598,0.0763,-9.304,0.0813,95.77,4
+34,I'll Stand by You,Last of the Independents,Pretenders,1994-06-01,240760,70,0.438,0.3,0.438,0.606,4.49e-06,0.0754,-6.549,0.0305,133.822,4
+35,Nothing's Gonna Change My Love for You,20/20,George Benson,1985-01-15,242678,68,0.553,0.764,0.553,0.614,0.0,0.0811,-5.098,0.0306,136.628,4
+36,You're Still The One,Come On Over,Shania Twain,1997-11-04,212200,73,0.585,0.363,0.585,0.494,0.0,0.0886,-8.751,0.0353,133.822,4
+37,Angel of Mine,The Boy Is Mine,Monica,1998-07-13,250173,63,0.592,0.00373,0.592,0.562,3.23e-05,0.223,-6.869,0.0239,90.16,4
+38,I Swear,All-4-One,All-4-One,1994-01-01,259853,66,0.532,0.235,0.532,0.407,0.0,0.117,-9.658,0.0233,83.207,4
+39,Don't Know Much (with Aaron Neville),Cry Like a Rainstorm Howl Like the Wind (feat. Aaron Neville),Linda Ronstadt,1989,211973,62,0.401,0.657,0.401,0.285,1.13e-05,0.158,-11.005,0.0327,130.465,4
+40,The Way You Look Tonight,Ultimate Sinatra,Frank Sinatra,2015-04-21,201200,55,0.589,0.855,0.589,0.369,0.0,0.352,-8.678,0.0321,132.954,4
+41,My Love Is Your Love,My Love Is Your Love,Whitney Houston,1998-11-17,261573,67,0.77,0.0561,0.77,0.475,4.72e-06,0.0607,-9.512,0.159,82.511,4
+42,Now And Forever,Paid Vacation,Richard Marx,1994-01-01,214826,64,0.441,0.661,0.441,0.258,0.0,0.106,-11.227,0.0276,77.988,1
+43,Amazed,Lonely Grill,Lonestar,1999,240866,67,0.561,0.26,0.561,0.543,0.0,0.124,-8.498,0.0324,139.803,4
+44,My Girl,The Temptations Sing Smokey,The Temptations,1965-01-01,165000,0,0.572,0.635,0.572,0.418,0.0,0.0961,-10.738,0.0349,104.566,4
+45,Stuck On You,Can't Slow Down,Lionel Richie,1983-01-01,192066,69,0.509,0.621,0.509,0.317,5.28e-05,0.0878,-16.063,0.0305,131.783,4
+46,At Last,At Last!,Etta James,1960,179693,74,0.274,0.547,0.274,0.348,0.0133,0.334,-8.631,0.0293,87.43,3
+47,Just the Way You Are,Doo-Wops & Hooligans,Bruno Mars,2010-10-05,220733,77,0.637,0.0151,0.637,0.843,0.0,0.0876,-5.413,0.0432,109.012,4
+48,The Power of Love,The Colour Of My Love,Céline Dion,1993-11-09,342400,66,0.546,0.36,0.546,0.519,0.00046,0.24,-9.072,0.0291,140.054,4
+49,L-O-V-E,The Extraordinary,Nat King Cole,2014-05-23,153040,0,0.576,0.746,0.576,0.246,4.91e-06,0.0662,-11.909,0.0557,78.58,4
+50,Said I Loved You...But I Lied,The One Thing,Michael Bolton,1993,304866,62,0.547,0.189,0.547,0.569,7.05e-06,0.156,-8.644,0.0271,159.713,4
+51,Tonight I Celebrate My Love,The Peabo Bryson Collection,Peabo Bryson,1985-01-01,211400,52,0.47,0.874,0.47,0.228,2.48e-05,0.133,-13.651,0.0316,116.947,4
+52,"Show Me Heaven - From ""Days Of Thunder"" Soundtrack",Drivetime,Various Artists,2003-01-01,222866,0,0.522,0.105,0.522,0.495,0.000176,0.0537,-9.096,0.0263,155.884,4
+53,I Love You Always Forever,Now in a Minute,Donna Lewis,1996-04-16,239960,68,0.744,0.627,0.744,0.453,0.421,0.0898,-11.977,0.0348,103.773,4
+54,(What A) Wonderful World,The Man Who Invented Soul,Sam Cooke,2000-09-26,125440,69,0.691,0.627,0.691,0.507,0.0,0.457,-10.23,0.0343,128.518,4
+55,"Love Is All Around - From ""Four Weddings And A Funeral""",Picture This (20th Anniversary Edition),Wet Wet Wet,1995-04-10,246240,68,0.523,0.228,0.523,0.689,0.0,0.109,-6.58,0.027,84.09,4
+56,Can't Take My Eyes off You,The Very Best of Frankie Valli & The 4 Seasons,Frankie Valli & The Four Seasons,2003-01-14,203240,68,0.575,0.566,0.575,0.764,1.07e-05,0.0692,-7.448,0.0746,123.821,4
+57,Woman - Remastered 2010,Double Fantasy,John Lennon,1980-11-17,212933,62,0.588,0.378,0.588,0.656,0.00227,0.042,-6.373,0.0224,79.701,4
+58,XO,XO,John Mayer,2014-05-27,213626,69,0.431,0.749,0.431,0.377,0.0,0.211,-9.753,0.0288,173.67,4
+59,Let's Stay Together,Greatest Hits,Al Green,1975-05-29,198400,0,0.734,0.53,0.734,0.416,2.04e-05,0.0365,-9.304,0.0529,101.498,4
+60,Fallen,Cat Trick,Lauren Wood,1981,221133,56,0.688,0.8,0.688,0.137,6.53e-05,0.0629,-21.644,0.0353,113.337,4
+61,Lovin' You,Capitol Gold: The Best Of Minnie Riperton,Minnie Riperton,1993-01-01,203506,56,0.392,0.903,0.392,0.213,1.01e-06,0.12,-12.494,0.0415,100.518,3
