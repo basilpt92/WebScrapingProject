@@ -1,0 +1,67 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Collide,10 Years From Now / Collide,Made in Paris,2021-09-16,275369,3,0.667,0.355,0.667,0.612,0.72,0.093,-14.007,0.0364,125.997,4
+1,A Matter of Time,A Matter Of Time,Ben Böhmer,2021-09-15,235586,37,0.578,0.00447,0.578,0.849,0.922,0.125,-7.669,0.0329,134.006,4
+2,Twisted Reality - Edit,Twisted Reality (Edit),Boris Brejcha,2021-09-17,207360,0,0.686,0.00281,0.686,0.662,0.886,0.122,-12.405,0.0438,125.004,4
+3,Go,Go Re Nue EP,Super Flu,2021-09-17,480000,0,0.769,0.00305,0.769,0.656,0.838,0.625,-10.663,0.0577,121.014,4
+4,Sanba Yo Pran Pale - DJ Koze Remix,Sanba Yo Pran Pale (DJ Koze Remix),Lakou Mizik,2021-09-14,647800,0,0.793,0.00617,0.793,0.679,0.277,0.0318,-8.307,0.0487,117.996,4
+5,Intentional Dweeb,Intentional Dweeb,MEUTE,2021-09-15,225857,28,0.779,0.22,0.779,0.504,0.81,0.129,-11.911,0.0731,127.967,4
+6,Thinking About You - Radio Slave feat. Thomas Gandey Remix,Thinking About You,Sailor & I,2021-09-17,470580,0,0.89,0.0108,0.89,0.541,0.847,0.0839,-11.018,0.0782,125.015,4
+7,String Me Along (feat. Ira Atari),String Me Along (feat. Ira Atari),Kalipo,2021-09-17,293240,0,0.726,0.00271,0.726,0.64,0.759,0.104,-11.021,0.0456,116.006,4
+8,Gummihammer,KOMMIT,Der Dritte Raum,2021-09-17,407419,0,0.809,0.0243,0.809,0.867,0.866,0.671,-8.176,0.0661,123.014,4
+9,Tighter (feat. Jalja) - CamelPhat Remix,Tighter (feat. Jalja) [CamelPhat Remix],HOSH,2021-09-17,234312,0,0.647,0.00133,0.647,0.937,0.0292,0.131,-6.008,0.0366,125.016,4
+10,Woman,Woman,Nico de Andrea,2021-09-17,214167,0,0.588,0.0158,0.588,0.81,0.0353,0.0845,-8.663,0.0517,118.012,4
+11,Fener - Bebetta Remix,Selected Reworks,Steve Parry,2021-09-17,456000,0,0.64,0.00572,0.64,0.711,0.848,0.672,-12.107,0.0545,121.995,4
+12,Beyond,Beyond,Teho,2021-09-17,324000,0,0.58,0.0167,0.58,0.633,0.894,0.0663,-8.272,0.0316,119.948,4
+13,Pidgeons - Fka Mash Glitch Dub,Pidgeons (Fka Mash Glitch Dub),Stimming,2021-09-17,377109,0,0.803,0.0388,0.803,0.626,0.752,0.142,-12.361,0.0487,113.992,4
+14,Starlight,Starlight / Overdrive,Sam Paganini,2021-09-17,424870,0,0.686,0.0235,0.686,0.545,0.896,0.0983,-11.226,0.0681,130.002,4
+15,Cuckoo,Cuckoo,Sven Tasnadi,2021-09-16,416102,0,0.795,0.000325,0.795,0.799,0.839,0.0863,-8.839,0.0419,124.989,4
+16,Peer Gynt,Peer Gynt,Stefan Obermaier,2021-09-17,320791,0,0.616,0.00386,0.616,0.759,0.906,0.0977,-10.058,0.0366,113.009,4
+17,Sunrays,Sunrays,AK,2021-09-17,231120,0,0.741,0.518,0.741,0.421,0.92,0.129,-12.463,0.0763,124.986,4
+18,Sport Casino,Sport Casino,Kid Simius,2021-09-17,399626,0,0.77,0.157,0.77,0.881,0.895,0.0393,-10.236,0.081,121.986,4
+19,Kilian,Kilian,Rodriguez Jr.,2021-09-10,420115,43,0.691,0.0019,0.691,0.804,0.821,0.0994,-9.402,0.0382,125.005,4
+20,What You Like,What You Like,Logic1000,2021-09-09,193893,47,0.794,0.0398,0.794,0.543,0.783,0.0858,-9.63,0.0519,124.009,4
+21,Restless Mind,Restless Mind,Armen Miran,2021-09-10,464132,39,0.803,0.119,0.803,0.576,0.573,0.0698,-9.093,0.0482,121.015,4
+22,Don't Hold Back - Edit,Don't Hold Back (Edit),Monolink,2021-09-10,270539,48,0.613,0.0095,0.613,0.736,0.711,0.151,-11.947,0.0391,119.994,4
+23,Feiern - Radio Edit,Feiern,Sven Väth,2021-09-10,230683,38,0.563,0.00016,0.563,0.65,0.89,0.11,-9.939,0.0394,127.999,4
+24,Black Hole,Black Hole,Mario Ochoa,2021-09-24,418646,40,0.587,0.0253,0.587,0.927,0.808,0.114,-12.037,0.0687,133.031,4
+25,Zero Gravity,Zero Gravity,Ramon Tapia,2021-09-10,295682,38,0.637,0.000198,0.637,0.931,0.877,0.358,-3.093,0.0449,133.993,4
+26,Night Shadows,Night Shadows,Oma Nata,2021-09-17,390369,0,0.496,0.00348,0.496,0.612,0.891,0.0948,-10.689,0.0824,128.996,4
+27,Altalenanti - Radio Slave Remix,Altalenanti (Radio Slave Remix),Lauer,2021-09-10,624435,35,0.8,0.00096,0.8,0.805,0.864,0.101,-10.643,0.0597,125.994,4
+28,Next to Me - Adana Twins 'A Night At Revolver' Version,Next to Me (Remixes),RÜFÜS DU SOL,2021-09-10,469438,47,0.729,0.00214,0.729,0.618,0.396,0.0984,-8.35,0.0415,124.002,4
+29,Headlights,Headlights,Jonas Saalbach,2021-09-17,297195,0,0.571,0.109,0.571,0.58,0.918,0.121,-8.624,0.0368,124.037,4
+30,For U,For U,KRIEGER (BR),2021-09-10,216000,32,0.642,0.00107,0.642,0.879,0.0214,0.677,-8.476,0.0377,125.016,4
+31,Mountain Of Geeks,Sky Without Colours,Julian Stetter,2021-09-17,338893,0,0.356,0.00626,0.356,0.71,0.4,0.0735,-10.956,0.0421,124.035,4
+32,Trojan Love - Tim Engelhardt Remix,Trojan Love (Tim Engelhardt Remix),Definition,2021-09-10,410132,34,0.741,0.0472,0.741,0.795,0.848,0.0873,-12.183,0.0426,123.021,4
+33,Get on the Bus,Get on the Bus,Oliver Koletzki,2021-09-10,225083,46,0.776,0.00751,0.776,0.784,0.528,0.053,-8.373,0.0458,117.968,4
+34,Keep Moving - Gaspard Augé and Victor Le Masne Remix,Keep Moving (Gaspard Augé and Victor Le Masne Remix),Jungle,2021-09-15,211128,36,0.741,0.372,0.741,0.794,0.225,0.0908,-8.119,0.0328,111.515,4
+35,Mencitaimu,Mencitaimu,Yulia Niko,2021-09-10,488187,29,0.765,1.61e-05,0.765,0.84,0.796,0.1,-7.506,0.048,121.995,4
+36,Juno - Henry Green Remix,Juno (Henry Green Remix),Parra for Cuva,2021-09-10,237967,46,0.668,0.212,0.668,0.819,0.787,0.0816,-8.959,0.0385,124.003,4
+37,Desde el Underground,Desde el Underground,Wally Lopez,2021-09-17,213008,0,0.84,0.0161,0.84,0.583,0.0685,0.0562,-10.882,0.0679,122.002,4
+38,Tesseract,Lu | Sal Amander | Tesseract,Nors Kode,2021-09-10,397377,28,0.761,0.0491,0.761,0.506,0.871,0.0535,-11.445,0.0561,123.985,4
+39,Drago,Drago,Booka Shade,2021-09-03,409000,47,0.802,0.00901,0.802,0.713,0.913,0.104,-9.002,0.0481,123.015,4
+40,Pont de la Caille,Pont de la Caille,Hidden Empire,2021-09-02,313809,45,0.678,0.00168,0.678,0.901,0.899,0.109,-8.83,0.0438,123.98,4
+41,The End is the Beginning,The End is the Beginning,Klanglos,2021-09-03,409095,42,0.748,0.0139,0.748,0.8,0.889,0.109,-8.777,0.0479,132.01,4
+42,Sometimes You Gotta Let It Go,Sometimes You Gotta Let It Go,Will Clarke,2021-09-03,213793,37,0.288,0.00091,0.288,0.841,0.158,0.385,-7.989,0.0431,127.008,4
+43,Rave Against the System,Rave Against the System,Vitalic,2021-09-16,298560,3,0.723,0.00288,0.723,0.627,0.337,0.0809,-5.449,0.108,133.334,4
+44,The Pit,The Pit,W.LV.S,2021-09-15,368000,7,0.657,0.0582,0.657,0.904,0.812,0.107,-10.242,0.0844,132.008,4
+45,Lost Signal - Vanita Remix,Lost Signal (Vanita Remix),BRAGKEN,2021-09-10,377727,27,0.741,0.00125,0.741,0.888,0.904,0.0976,-9.738,0.0464,125.008,4
+46,Afterhour,Afterhour,MARIA Die RUHE,2021-09-03,207902,36,0.849,0.145,0.849,0.578,0.512,0.368,-10.432,0.0621,119.97,4
+47,Futaleufu - Britta Arnold Remix,Futaleufu (Britta Arnold Remix),Los Cabra,2021-09-10,412195,26,0.792,3.45e-05,0.792,0.756,0.911,0.106,-8.14,0.067,122.994,4
+48,Binford,Binford,Matthias Tanzmann,2021-09-09,331066,28,0.798,0.000203,0.798,0.876,0.899,0.0698,-7.326,0.0697,123.989,4
+49,Krakno,Krakno EP,DR. DRTY,2021-09-03,232380,37,0.641,0.00479,0.641,0.9,0.852,0.472,-6.764,0.0443,126.037,4
+50,Tell Me - Radio-Edit,Tell Me,Patrick Scuro,2021-09-17,269538,0,0.608,0.00245,0.608,0.832,0.709,0.277,-9.088,0.0351,130.046,4
+51,210407.1,WSNWG008,Fadi Mohem,2021-09-06,364947,30,0.734,0.029,0.734,0.839,0.903,0.108,-9.67,0.0651,138.035,4
+52,Pressure Point,"There's Always Cacao in Exotic Places, Vol. 5",Floyd Lavine,2021-09-17,423590,0,0.802,0.00975,0.802,0.636,0.883,0.0737,-11.342,0.0692,127.995,4
+53,Basic Juno,Studio A Pt.1,Ian Pooley,2021-09-10,367578,28,0.751,0.00748,0.751,0.488,0.87,0.0816,-12.032,0.0879,125.99,4
+54,Not for Me,Not for Me,Gregor Salto,2021-09-03,220161,45,0.759,0.0216,0.759,0.844,0.0559,0.105,-5.481,0.0586,124.024,4
+55,Don't Cry,Don't Cry,Model Man,2021-09-16,211613,17,0.74,0.114,0.74,0.562,0.0756,0.22,-10.018,0.0378,124.962,4
+56,Osama - Edit,Osama (Edit),Zakes Bantwini,2021-09-10,223666,29,0.565,0.0661,0.565,0.806,0.376,0.0682,-8.467,0.0353,122.008,4
+57,Letters - NTO Remix,A Magic World (Remixes),KAS:ST,2021-09-10,365971,39,0.493,0.0934,0.493,0.56,0.806,0.113,-10.844,0.0518,119.362,4
+58,Flight Number,Flight Number,Smilla,2021-09-10,356777,34,0.682,0.109,0.682,0.334,0.895,0.11,-15.296,0.0831,135.01,4
+59,Transformer - Original Mix,Transformer,Xenia (UA),2021-09-10,264944,29,0.697,0.0357,0.697,0.872,0.14,0.0775,-5.775,0.0644,134.992,3
+60,Chasing Highs,Chasing Highs,Héctor Oaks,2021-09-10,378866,31,0.691,0.149,0.691,0.921,0.166,0.128,-7.426,0.0666,139.984,4
+61,Leily - Dirty Doering Remix,Leily,Ava Irandoost,2021-09-10,414120,24,0.797,0.00031,0.797,0.572,0.93,0.0952,-7.744,0.0569,123.003,4
+62,Chilli Heatwave,25 Minutes of Relaxing ASMR,Girls of the Internet,2021-09-10,275131,26,0.702,0.0109,0.702,0.393,0.695,0.0902,-12.938,0.0478,119.986,4
+63,Behind The Wall - Tiefe Wasser Berlin's Singin' Bird Dub,Behind The Wall (Tiefe Wasser Berlin's Singin' Bird Dub),Monvol,2021-09-15,320206,1,0.902,0.00202,0.902,0.272,0.837,0.0845,-11.051,0.108,118.012,4
+64,The Lightness,Between Shadows & Lights,Clawz SG,2021-09-10,311135,24,0.66,0.0174,0.66,0.695,0.699,0.0673,-9.686,0.0344,122.001,3
+65,Thread Tension,Thread Tension,Durante,2021-09-10,319212,33,0.628,0.055,0.628,0.848,0.853,0.0609,-8.849,0.0496,121.981,4

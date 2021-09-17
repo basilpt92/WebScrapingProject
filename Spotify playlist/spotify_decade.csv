@@ -1,0 +1,76 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Stay With Me,In The Lonely Hour,Sam Smith,2014-01-01,172723,0,0.479,0.568,0.479,0.419,0.000217,0.11,-6.517,0.0389,85.014,4
+1,Ain't That A Kick In The Head - Remastered,Dino The Essential Dean Martin,Dean Martin,2013-12-31,144693,38,0.592,0.583,0.592,0.344,0.0,0.0979,-7.875,0.0534,131.21,4
+2,Don't Know Why,Come Away With Me,Norah Jones,2002-02-26,186146,71,0.732,0.883,0.732,0.198,1.1e-05,0.0659,-11.775,0.028,88.174,4
+3,Come Fly With Me,Come Fly With Me (Mono Version),Frank Sinatra,1958-01,196276,47,0.475,0.707,0.475,0.44,0.0,0.138,-8.613,0.0448,134.192,4
+4,Got To Get You Into My Life - Remastered 2009,Revolver (Remastered),The Beatles,1966-08-05,149240,59,0.521,0.42,0.521,0.524,9.27e-06,0.0838,-6.136,0.0302,136.679,4
+5,Fly Like An Eagle,Greatest Hits 1974-78,Steve Miller Band,1978-01-01,184693,38,0.351,0.482,0.351,0.72,0.000517,0.336,-13.186,0.0789,94.989,4
+6,Firework,Teenage Dream,Katy Perry,2010-01-01,227893,66,0.638,0.141,0.638,0.832,0.0,0.113,-5.039,0.049,124.071,4
+7,Wouldn't It Be Nice - Stereo,Pet Sounds (50th Anniversary Edition),The Beach Boys,1966-06-16,154226,33,0.384,0.509,0.384,0.517,1.32e-06,0.102,-11.553,0.0331,124.759,4
+8,Nick Of Time,Nick Of Time,Bonnie Raitt,1989,232866,54,0.886,0.37,0.886,0.312,0.00208,0.103,-16.094,0.0579,117.692,4
+9,Santa Monica,Sparkle And Fade,Everclear,1995-01-01,191506,69,0.491,0.156,0.491,0.942,0.0,0.367,-5.333,0.132,100.446,4
+10,No Rain,Blind Melon,Blind Melon,1992-01-01,217106,73,0.389,0.619,0.389,0.476,5.09e-05,0.255,-9.342,0.0316,148.117,4
+11,Unforgettable,Unforgettable,Nat King Cole,1954-01-01,191973,65,0.349,0.92,0.349,0.182,0.0152,0.143,-13.507,0.031,136.094,3
+12,Magic Man,Dreamboat Annie,Heart,1975,328360,60,0.435,0.159,0.435,0.444,0.000705,0.457,-12.816,0.0336,103.818,4
+13,Fade Into You,So Tonight That I Might See,Mazzy Star,1993-10-05,295600,72,0.42,0.245,0.42,0.33,0.000679,0.0677,-13.925,0.0275,157.143,3
+14,Band On The Run - Remastered 2010,Band On The Run (Standard),Wings,1973-12-05,313026,70,0.479,0.0832,0.479,0.601,0.00142,0.11,-8.806,0.0318,124.966,4
+15,My Sharona,Get The Knack,The Knack,1979-01-01,295400,72,0.586,0.0589,0.586,0.7,0.00125,0.0318,-9.558,0.0363,147.245,4
+16,"America - From ""The Jazz Singer"" Soundtrack",The Jazz Singer (Original Songs From The Motion Picture),Neil Diamond,1980-11-10,257600,50,0.548,0.00974,0.548,0.488,0.000205,0.187,-14.834,0.0318,126.446,4
+17,The Stroke - Remastered,Don't Say No,Billy Squier,1981,217613,66,0.67,0.62,0.67,0.591,0.0,0.373,-6.012,0.0646,91.439,4
+18,Here Comes The Sun - Remastered 2009,Abbey Road (Remastered),The Beatles,1969-09-26,185733,81,0.557,0.0339,0.557,0.54,0.00248,0.179,-10.484,0.0347,129.171,4
+19,Every Rose Has Its Thorn - Remastered 2003,Open Up And Say...Ahh! (20th Anniversary Edition),Poison,1988-03-21,260173,70,0.533,0.16,0.533,0.637,1.12e-05,0.369,-5.571,0.0323,140.167,4
+20,Ah Yeah,Black Radio,Robert Glasper,2012-01-01,308933,48,0.632,0.696,0.632,0.41,0.00307,0.104,-12.129,0.0677,71.972,4
+21,By The Time I Get To Phoenix - Remastered 2001,By The Time I Get To Phoenix (Remastered),Glen Campbell,1967,164200,51,0.218,0.0743,0.218,0.336,1.61e-06,0.134,-12.997,0.0301,176.66,4
+22,U Can't Touch This,Please Hammer Don't Hurt 'Em,MC Hammer,1990-02-20,257360,74,0.867,0.00456,0.867,0.517,0.000339,0.0864,-13.222,0.0875,133.148,4
+23,Don't Dream It's Over,Crowded House,Crowded House,1986,236933,0,0.439,0.0148,0.439,0.422,4.84e-05,0.0697,-17.227,0.0409,81.833,4
+24,What's Love Got to Do with It,What's Love Got to Do with It?,Tina Turner,1993,226880,72,0.851,0.219,0.851,0.406,6.41e-06,0.0853,-11.631,0.0661,97.84,4
+25,Crazy On You,Dreamboat Annie,Heart,1975,293440,66,0.427,0.116,0.427,0.459,0.000103,0.132,-12.442,0.0332,129.878,4
+26,I'm Not The Only One,In The Lonely Hour,Sam Smith,2014-01-01,239316,0,0.453,0.554,0.453,0.496,2.65e-05,0.0772,-5.785,0.0453,80.994,4
+27,You're No Good,Heart Like A Wheel,Linda Ronstadt,1974,224026,60,0.669,0.245,0.669,0.52,0.00535,0.126,-10.136,0.0345,104.812,4
+28,We're An American Band - Remastered 2002,We're An American Band (Remastered / Bonus Track),Grand Funk Railroad,1973,207093,62,0.637,0.119,0.637,0.89,6.72e-05,0.103,-4.872,0.0677,127.689,4
+29,Go All The Way,Raspberries,Raspberries,1972,205346,62,0.305,0.548,0.305,0.849,0.000134,0.0995,-4.892,0.0999,134.287,4
+30,On An Evening In Roma (Sott'er Celo De Roma) - Remastered,Italian Love Songs,Dean Martin,1962-02-05,151533,53,0.472,0.927,0.472,0.217,1.81e-06,0.352,-13.853,0.0295,136.991,4
+31,I've Got Love On My Mind,Unpredictable,Natalie Cole,1977-01-01,260000,36,0.379,0.76,0.379,0.394,3.55e-05,0.0501,-11.522,0.0433,206.966,3
+32,Walking On Sunshine,Katrina & The Waves,Katrina & The Waves,1985,238733,76,0.596,0.0116,0.596,0.869,0.173,0.0678,-11.97,0.037,109.902,4
+33,E.T.,Teenage Dream,Katy Perry,2010-01-01,206373,54,0.602,0.0178,0.602,0.863,0.0,0.389,-5.423,0.0773,150.183,4
+34,Surfer Girl - Remastered,Surfer Girl (Remastered),The Beach Boys,1963-09-16,148533,52,0.522,0.651,0.522,0.37,0.0,0.142,-8.364,0.0253,105.826,3
+35,It Only Takes A Minute - Remastered,Anthology,Tavares,2004-01-01,243240,43,0.649,0.167,0.649,0.7,6.86e-05,0.382,-8.43,0.0312,122.697,4
+36,Photograph,Ringo,Ringo Starr,1973-01-01,239760,57,0.617,0.0155,0.617,0.696,0.000199,0.108,-12.739,0.0282,111.136,4
+37,Hey Ladies,Paul's Boutique (20th Anniversary Remastered Edition),Beastie Boys,1989-07-25,227773,52,0.949,0.286,0.949,0.728,0.0,0.0465,-10.653,0.211,101.718,4
+38,Lucy In The Sky With Diamonds - Remastered 2009,Sgt. Pepper's Lonely Hearts Club Band (Remastered),The Beatles,1967-06-01,208466,66,0.311,0.0469,0.311,0.325,0.0,0.139,-9.042,0.0283,65.09,1
+39,Be-Bop-A-Lula - 2002 - Remastered,Blue Jean Bop,Gene Vincent & His Blue Caps,2002-09-17,156266,0,0.592,0.511,0.592,0.562,0.0,0.196,-9.689,0.046,127.465,4
+40,Yellow,Parachutes,Coldplay,2000-07-10,266773,84,0.429,0.00239,0.429,0.661,0.000121,0.234,-7.227,0.0281,173.372,4
+41,L-O-V-E,L-O-V-E,Nat King Cole,1992-01-01,155306,68,0.425,0.686,0.425,0.373,0.0,0.077,-7.543,0.0801,78.231,4
+42,Big Me,Foo Fighters,Foo Fighters,1995-07-04,132840,58,0.579,0.442,0.579,0.708,0.0,0.11,-10.419,0.0374,130.97,4
+43,Atomic Dog,Computer Games,George Clinton,1982-01-01,287106,54,0.899,0.148,0.899,0.491,3.82e-06,0.411,-11.043,0.258,107.706,4
+44,While I'm Alone - Remastered,Maze (Remastered),Maze,2004-01-01,276826,38,0.639,0.486,0.639,0.766,0.0,0.128,-7.579,0.0474,155.521,4
+45,Boogie Oogie Oogie - Single Version 2 / Remastered 1999,A Taste Of Honey,A Taste Of Honey,1978-07-01,338133,49,0.835,0.0991,0.835,0.522,0.00184,0.111,-10.828,0.0916,123.934,4
+46,Love Is A Hurtin' Thing - 2000 Digital Remaster,Anthology-Lou Rawls,Lou Rawls,2000-06-06,134293,15,0.591,0.64,0.591,0.486,4.24e-06,0.163,-9.406,0.0297,92.213,4
+47,Blue Moon,Morning Phase,Beck,2014-01-01,242346,50,0.685,0.182,0.685,0.645,0.00532,0.138,-6.73,0.0256,119.936,4
+48,Rock Me Tonight For Old Times Sake,Rock Me Tonight,Freddie Jackson,1985-01-01,432160,40,0.717,0.387,0.717,0.39,0.0,0.0607,-14.879,0.0537,143.965,4
+49,My Sweet Lord,All Things Must Pass (Remastered),George Harrison,1970-11-27,281226,0,0.538,0.0794,0.538,0.704,0.0,0.0867,-8.904,0.0332,120.963,4
+50,Come Away With Me,Come Away With Me,Norah Jones,2002-02-26,198146,69,0.363,0.904,0.363,0.129,1.52e-06,0.157,-14.304,0.0322,80.367,3
+51,Ode To Billie Joe,Ode To Billie Joe,Bobbie Gentry,1967-08-21,255001,55,0.637,0.721,0.637,0.189,0.0,0.0939,-10.726,0.0471,120.142,4
+52,Mama Tried - Remastered 2001,Mama Tried,Merle Haggard & The Strangers,2001-01-01,132626,57,0.725,0.778,0.725,0.654,2.7e-06,0.0769,-6.283,0.0609,97.255,4
+53,Ac-Cent-Tchu-Ate The Positive,Capitol Collectors Series,Johnny Mercer,1989-01-01,168773,15,0.705,0.82,0.705,0.124,0.0,0.298,-18.004,0.056,123.801,4
+54,(You Don't Know) How Glad I Am - 2002 - Remaster,How Glad Am I / Gentle Is My Love,Nancy Wilson,2009,157386,0,0.529,0.724,0.529,0.444,8.68e-06,0.301,-9.16,0.0313,68.361,4
+55,Imagine - Remastered 2010,Imagine,John Lennon,1971-09-09,187866,76,0.547,0.907,0.547,0.257,0.183,0.0935,-12.358,0.0252,75.752,4
+56,Hard Headed Woman,There's A Party Goin' On,Wanda Jackson,1961-01-01,119386,34,0.603,0.548,0.603,0.916,0.000514,0.156,-4.922,0.0819,83.284,4
+57,Tom Dooley,The Kingston Trio/From The Hungry I,The Kingston Trio,1992-02-03,183973,0,0.649,0.806,0.649,0.144,4.55e-06,0.105,-13.986,0.0418,125.74,4
+58,On The Sunny Side Of The Street,Les & Mary,Les Paul,1955-01-01,156240,0,0.593,0.833,0.593,0.182,0.00532,0.116,-14.362,0.0382,82.519,4
+59,"Changes - Live At Filmore East, New York/1970/1997 Digital Remaster",Band Of Gypsys (Live),Jimi Hendrix,1970-03-25,314133,0,0.49,0.11,0.49,0.792,0.029,0.731,-8.169,0.0503,116.001,4
+60,The Joker,The Joker,Steve Miller Band,1973-01-01,264503,75,0.596,0.365,0.596,0.448,5.3e-06,0.206,-9.616,0.0396,83.293,4
+61,Boplicity,Birth Of The Cool,Miles Davis,1957,181988,40,0.488,0.932,0.488,0.176,0.00345,0.0935,-15.979,0.0399,135.593,4
+62,Peace Sells - Remastered,Peace Sells...But Who's Buying?,Megadeth,1986,242533,52,0.303,0.000676,0.303,0.922,0.26,0.561,-4.376,0.138,138.393,4
+63,You're The Reason I'm Living,You're The Reason I'm Living,Bobby Darin,1963-01-01,148933,20,0.347,0.766,0.347,0.209,0.0,0.24,-12.525,0.0276,72.3,4
+64,The Night They Drove Old Dixie Down - Remastered 2000,The Band (Expanded Edition),The Band,1969-09-22,213266,1,0.507,0.453,0.507,0.493,0.0,0.241,-8.786,0.0327,127.671,4
+65,Money,The Dark Side of the Moon,Pink Floyd,1973-03-01,382834,71,0.469,0.0241,0.469,0.537,0.00201,0.269,-10.421,0.152,124.193,1
+66,Karma Police,OK Computer,Radiohead,1997-05-28,264066,9,0.36,0.0626,0.36,0.505,9.22e-05,0.172,-9.129,0.026,74.807,4
+67,"Mercy, Mercy, Mercy - Live","Mercy, Mercy, Mercy (Live)",Cannonball Adderley,1995-01-01,310600,28,0.546,0.721,0.546,0.402,0.0164,0.956,-13.398,0.0528,84.701,4
+68,"Jump, Jive, An' Wail - Remastered",The Wildest! (Expanded Edition),Louis Prima,1956-11-01,211066,46,0.632,0.766,0.632,0.769,5.05e-06,0.0595,-6.627,0.0701,101.927,4
+69,God Is In The Roses,Black Cadillac,Rosanne Cash,2006-01-01,247373,19,0.58,0.537,0.58,0.469,0.00527,0.132,-8.528,0.0299,84.505,4
+70,Solid,Solid,Ashford & Simpson,1984-01-01,312000,55,0.814,0.27,0.814,0.474,8.16e-06,0.599,-12.017,0.0309,101.241,4
+71,People,Funny Girl (Original Broadway Cast / 50th Anniversary Edition),Various Artists,2014-01-01,205893,25,0.209,0.922,0.209,0.108,6.48e-06,0.157,-13.534,0.0348,86.433,4
+72,Is That All There Is - Remastered,Is That All There Is?,Peggy Lee,2011-01-01,262000,0,0.458,0.863,0.458,0.0899,0.0,0.137,-18.824,0.0362,109.574,4
+73,One For My Baby (And One More For The Road) - Remastered,Frank Sinatra Sings For Only The Lonely (Remastered),Frank Sinatra,1958-09,265906,0,0.421,0.975,0.421,0.00983,0.000251,0.112,-26.106,0.0376,136.013,3
+74,Over The Rainbow - Live At Carnegie Hall/1961,Judy At Carnegie Hall,Judy Garland,1961-07-10,341866,18,0.137,0.875,0.137,0.124,0.000246,0.704,-19.063,0.0377,72.574,4
