@@ -1,0 +1,101 @@
+,name,album,artist,release_date,length,popularity,danceability,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,time_signature
+0,Baby Shark,Pinkfong Presents: The Best of Baby Shark,Pinkfong,2018-11-30,84156,49,0.825,0.272,0.825,0.828,0.0,0.053,-4.887,0.139,115.045,4
+1,Dance Monkey,Dance Monkey (Stripped Back) / Dance Monkey,Tones And I,2019-10-17,209438,80,0.824,0.692,0.824,0.588,0.000104,0.149,-6.4,0.0924,98.027,4
+2,"All I Want - From ""High School Musical: The Musical: The Series""","All I Want (From ""High School Musical: The Musical: The Series"")",Olivia Rodrigo,2019-11-27,177322,75,0.376,0.0902,0.376,0.43,0.0,0.0912,-6.585,0.0328,77.599,3
+3,The Other Side (from Trolls World Tour),The Other Side (from Trolls World Tour),SZA,2020-02-26,188186,66,0.76,0.00277,0.76,0.607,0.0,0.132,-6.274,0.0964,105.979,4
+4,Say So,Say So,Kidz Bop Kids,2020-07-10,187039,52,0.793,0.0677,0.793,0.715,0.000109,0.116,-4.514,0.0387,110.925,4
+5,Dynamite,BE,BTS,2020-11-20,199053,86,0.746,0.0112,0.746,0.765,0.0,0.0936,-4.41,0.0993,114.044,4
+6,Don't Start Now,Don't Start Now,Kidz Bop Kids,2020-03-06,184000,47,0.752,0.0515,0.752,0.794,1.08e-06,0.0625,-5.469,0.0641,123.987,4
+7,The Git Up,Honeysuckle & Lightning Bugs,Blanco Brown,2019-10-10,200593,71,0.847,0.0669,0.847,0.678,0.0,0.274,-8.635,0.109,97.984,4
+8,Get The Party Started - Redo Version,Get The Party Started (Redo Version),Kidz Bop Kids,2021-03-05,193133,1,0.641,4.21e-05,0.641,0.963,0.000668,0.494,-3.761,0.0457,128.949,4
+9,Good 4 U,Good 4 U,Kidz Bop Kids,2021-08-13,166453,52,0.553,0.00756,0.553,0.704,2.95e-05,0.0939,-4.866,0.125,167.803,4
+10,Butter,Butter,Kidz Bop Kids,2021-09-03,166026,43,0.843,0.000388,0.843,0.657,0.0,0.0364,-4.735,0.133,110.004,4
+11,Rain On Me,Rain On Me,Kidz Bop Kids,2020-08-14,184466,51,0.716,0.00219,0.716,0.945,0.0,0.302,-3.414,0.0511,123.009,4
+12,Save Your Tears,Save Your Tears,Kidz Bop Kids,2021-07-23,210492,44,0.755,7.63e-05,0.755,0.939,0.00096,0.13,-5.624,0.0397,118.062,4
+13,Just Sing,TROLLS World Tour (Original Motion Picture Soundtrack),TROLLS World Tour,2020-03-13,221480,51,0.747,0.101,0.747,0.612,0.0,0.459,-5.658,0.0819,106.114,4
+14,Dance Through the Day,The J Team (Original Motion Picture Soundtrack),JoJo Siwa,2021-08-27,155657,45,0.716,0.0147,0.716,0.808,0.0,0.158,-5.231,0.0496,142.917,4
+15,Glowin' Up - from the Netflix film My Little Pony: A New Generation,"Glowin' Up (from the Netflix film ""My Little Pony: A New Generation"")",Sofia Carson,2021-09-03,191094,45,0.702,0.206,0.702,0.7,1.09e-06,0.259,-4.996,0.0551,114.973,4
+16,Kings & Queens,KIDZ BOP 2021,Kidz Bop Kids,2020-10-23,146233,40,0.746,0.014,0.746,0.793,0.0,0.076,-4.106,0.0468,129.985,4
+17,Trampoline,Trampoline,Kidz Bop Kids,2020-06-19,185092,46,0.7,0.134,0.7,0.453,3.87e-05,0.274,-7.234,0.03,126.483,4
+18,Midnight Sky,Midnight Sky,Kidz Bop Kids,2021-04-16,207759,38,0.541,0.00116,0.541,0.785,0.00198,0.184,-6.239,0.0474,109.807,4
+19,Savage Love,Savage Love,Mini Pop Kids,2020-07-17,171038,38,0.73,0.365,0.73,0.595,0.0,0.0655,-6.582,0.0622,112.355,3
+20,Supalonely,Supalonely / Midnight Sky - EP,SAPPHIRE,2021-05-07,180504,35,0.738,0.0838,0.738,0.571,0.000799,0.113,-7.359,0.0397,129.0,4
+21,It’s Alright - From The Netflix Film My Little Pony: A New Generation,It's Alright (From The Netflix Film My Little Pony: A New Generation),Johnny Orlando,2021-09-17,193669,0,0.764,0.163,0.764,0.899,0.0,0.114,-5.736,0.0871,124.012,4
+22,Into the Unknown,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Various Artists,2019-11-15,194848,73,0.323,0.849,0.323,0.405,0.000544,0.138,-8.533,0.0413,145.104,5
+23,Levitating,Levitating,Kidz Bop Kids,2021-02-12,186466,51,0.706,0.00416,0.706,0.798,0.00283,0.106,-4.733,0.0374,103.017,4
+24,Blinding Lights,Blinding Lights,Kidz Bop Kids,2020-04-17,180666,54,0.606,0.008,0.606,0.775,3.97e-06,0.125,-5.667,0.0533,171.001,4
+25,CAN'T STOP THE FEELING! - Film Version,TROLLS (Original Motion Picture Soundtrack),Trolls,2016-09-23,237400,62,0.658,0.00816,0.658,0.82,0.0,0.0839,-5.825,0.0674,112.938,4
+26,Music Is in Everything (feat. Lisa Loeb),More Family Time,Ziggy Marley,2020-09-18,204450,24,0.773,0.00868,0.773,0.856,0.0,0.105,-7.639,0.0268,100.014,4
+27,Smile,Smile,Katy Perry,2020-07-10,166898,65,0.783,0.0238,0.783,0.912,0.0,0.339,-3.713,0.243,98.025,4
+28,Drivers License,Drivers License,Kidz Bop Kids,2021-04-09,209786,50,0.597,0.0876,0.597,0.537,0.0,0.0677,-7.693,0.0427,143.662,4
+29,Bang!,Bang!,Kidz Bop Kids,2021-03-12,173732,46,0.739,0.0258,0.739,0.591,2.05e-06,0.0604,-5.434,0.0413,140.071,4
+30,Mood,Mood,Kidz Bop Kids,2021-01-01,120026,56,0.652,0.259,0.652,0.719,0.0,0.0743,-5.302,0.0343,90.973,4
+31,Like the Zombies Do,ZOMBIES 2 (Original TV Movie Soundtrack),Various Artists,2020-02-14,123411,57,0.879,0.108,0.879,0.748,0.0,0.111,-6.489,0.071,113.989,4
+32,Savage,Savage,Earwormz Squad,2020-12-11,131289,32,0.899,0.0717,0.899,0.534,0.0,0.0474,-9.811,0.313,84.498,4
+33,Watermelon Sugar,Watermelon Sugar,Mini Pop Kids,2020-07-27,176396,35,0.572,0.424,0.572,0.58,0.0,0.167,-7.208,0.0303,95.242,4
+34,RITMO,RITMO,Kidz Bop Kids,2020-05-01,203519,46,0.788,0.0252,0.788,0.745,5.52e-06,0.0943,-3.903,0.0615,104.969,4
+35,Thunder,Evolve,Imagine Dragons,2017-06-23,187146,0,0.601,0.00763,0.601,0.809,0.0757,0.145,-4.814,0.0441,167.96,4
+36,Intentions,Intentions,Kidz Bop Kids,2020-06-26,165279,42,0.791,0.712,0.791,0.652,0.0,0.0875,-6.779,0.0395,147.933,4
+37,Circles,Mini Pop Kids 17,Mini Pop Kids,2019-11-15,210247,31,0.85,0.133,0.85,0.459,0.0,0.0878,-8.481,0.0347,121.017,4
+38,ily (i love you baby),KIDZ BOP 2021,Kidz Bop Kids,2020-10-23,176170,32,0.626,0.00153,0.626,0.734,0.0,0.356,-5.357,0.0324,112.018,4
+39,"Born to Be Brave - From ""High School Musical: The Musical: The Series""","Born to Be Brave (From ""High School Musical: The Musical: The Series"")",Cast of High School Musical: The Musical: The Series,2019-12-04,189870,49,0.705,0.026,0.705,0.734,0.0,0.158,-4.526,0.0553,117.962,4
+40,U-N-I,The J Team (Original Motion Picture Soundtrack),JoJo Siwa,2021-08-27,147353,40,0.726,0.0326,0.726,0.826,0.0,0.435,-6.611,0.0838,103.984,4
+41,"10,000 Hours","10,000 Hours",Mini Pop Kids,2020-01-24,166672,31,0.723,0.321,0.723,0.52,0.0,0.0842,-5.056,0.03,90.008,4
+42,Happy,Despicable Me 2 (Original Motion Picture Soundtrack),Various Artists,2013-06-18,233305,1,0.652,0.286,0.652,0.757,0.0,0.0886,-6.819,0.153,159.911,4
+43,Panini,Panini,Kidz Bop Kids,2020-05-15,117319,43,0.696,0.358,0.696,0.541,0.0,0.198,-6.241,0.0382,77.035,4
+44,I Love Me,I Love Me,Mini Pop Kids,2020-04-03,200736,30,0.739,0.0131,0.739,0.434,0.0,0.14,-4.287,0.0641,150.032,4
+45,How Do You Sleep?,KIDZ BOP 40,Kidz Bop Kids,2019-11-15,192133,39,0.596,0.12,0.596,0.606,0.0,0.0782,-6.453,0.052,165.86,4
+46,Some Things Never Change,Frozen 2 (Original Motion Picture Soundtrack/Deluxe Edition),Various Artists,2019-11-15,209964,66,0.566,0.613,0.566,0.543,0.0,0.106,-4.485,0.0314,89.937,4
+47,Better When I'm Dancin',The Peanuts Movie - Original Motion Picture Soundtrack,Various Artists,2015-10-23,176266,41,0.755,0.53,0.755,0.786,0.000548,0.156,-7.002,0.0326,127.987,4
+48,Call to the Wild,ZOMBIES 2 (Original TV Movie Soundtrack),Various Artists,2020-02-14,156843,57,0.786,0.0939,0.786,0.83,0.0,0.118,-7.23,0.128,131.0,4
+49,Good Mood - Original Song From Paw Patrol: The Movie,Good Mood (Original Song From Paw Patrol: The Movie),Adam Levine,2021-08-06,210643,66,0.735,0.00088,0.735,0.694,0.0,0.0582,-5.258,0.0387,121.46,4
+50,Shake It Off,KIDZ BOP 34,Kidz Bop Kids,2017-01-20,208600,14,0.698,0.0482,0.698,0.893,0.0,0.0756,-3.402,0.143,79.997,4
+51,I'm a Queen!,REMIX,L.O.L. Surprise!,2020-09-25,202285,41,0.566,0.0428,0.566,0.713,0.0,0.105,-7.366,0.0701,139.973,4
+52,Ice Cream Cold,Da Boss Baby,ZaZa,2020-05-22,103506,30,0.936,0.266,0.936,0.49,0.0949,0.199,-8.999,0.248,98.94,4
+53,Catchy Song (feat. T-Pain & That Girl Lay Lay),Catchy Song (feat. T-Pain & That Girl lay Lay) [From The LEGO® Movie 2: The Second Part - Original Motion Picture Soundtrack],Dillon Francis,2019-01-18,168096,5,0.804,0.00204,0.804,0.895,6.4e-06,0.264,-5.853,0.0351,119.968,4
+54,Señorita,Mini Pop Kids 17,Mini Pop Kids,2019-11-15,190939,31,0.756,0.0825,0.756,0.609,0.0,0.19,-3.579,0.0316,117.052,4
+55,Try Everything,Zootopia (Original Motion Picture Soundtrack),Michael Giacchino,2016-02-12,196853,67,0.705,0.0257,0.705,0.609,0.0,0.0846,-4.897,0.0307,115.474,4
+56,Good to Be Bad,Descendants 3 (Original TV Movie Soundtrack),Various Artists,2019-08-02,189868,56,0.843,0.106,0.843,0.893,0.0,0.32,-5.653,0.126,116.302,4
+57,Say So,Say So,Mini Pop Kids,2020-06-26,193504,31,0.884,0.0907,0.884,0.487,0.0,0.11,-10.368,0.0858,111.026,4
+58,When The Party's Over,If I Can’t Have You,Kidz Bop Kids,2019-08-09,196893,38,0.448,0.906,0.448,0.166,0.0,0.369,-9.355,0.0362,123.936,3
+59,Snacks,Snacks,Novi,2019-11-22,169586,0,0.793,0.0736,0.793,0.428,0.0,0.079,-7.34,0.0399,120.942,4
+60,Old Town Road,Old Town Road,Kidz Bop Kids,2019-05-31,110346,54,0.784,0.0667,0.784,0.51,0.0,0.0773,-6.546,0.0405,135.909,4
+61,Timber,KIDZ BOP 33,Kidz Bop Kids,2016-10-14,190426,15,0.597,0.00123,0.597,0.854,0.0,0.16,-2.752,0.0373,130.057,4
+62,Con Altura,Con Altura,Kidz Bop Kids,2019-08-02,152386,36,0.869,0.372,0.869,0.686,3.57e-05,0.0668,-5.324,0.114,97.951,4
+63,You Need To Calm Down,Mini Pop Kids 17,Mini Pop Kids,2019-11-15,167740,28,0.786,0.00522,0.786,0.596,0.0,0.11,-6.711,0.117,84.948,4
+64,Truth Hurts,Truth Hurts,Kidz Bop Kids,2019-09-06,163640,41,0.715,0.29,0.715,0.618,0.0,0.0908,-4.975,0.0543,157.786,4
+65,You've Got a Friend in Me,Toy Story 4 (Original Motion Picture Soundtrack),Randy Newman,2019-06-21,124386,54,0.698,0.82,0.698,0.301,2.16e-06,0.2,-13.063,0.03,115.643,4
+66,2020 Vision,2020 Vision,Kidz Bop Kids,2020-03-13,179519,41,0.829,0.0266,0.829,0.808,2.17e-06,0.0547,-4.792,0.0663,123.99,4
+67,Queen of Mean,Descendants 3 (Original TV Movie Soundtrack),Various Artists,2019-08-02,189397,64,0.543,0.248,0.543,0.787,0.0,0.0778,-6.52,0.241,173.702,4
+68,Born This Way,Mini Pop Kids 17,Mini Pop Kids,2019-11-15,260373,29,0.602,0.142,0.602,0.869,0.0,0.212,-5.546,0.172,124.004,4
+69,Cake By The Ocean,KIDZ BOP 32,Kidz Bop Kids,2016-01-01,204533,24,0.807,0.00117,0.807,0.696,0.0,0.0457,-3.984,0.039,119.033,4
+70,Uptown Funk,Kidz Bop 28,Kidz Bop Kids,2015-03-23,224133,0,0.817,0.0492,0.817,0.882,0.0,0.0488,-3.86,0.241,115.017,4
+71,Worldwide Party,Celebrate,JoJo Siwa,2019-04-12,178744,46,0.664,0.0341,0.664,0.945,0.0,0.274,-3.846,0.0875,170.013,4
+72,Havana,Mini Pop Kids 15,Mini Pop Kids,2017-11-24,215568,0,0.81,0.14,0.81,0.653,0.000399,0.245,-5.242,0.0277,104.957,4
+73,ME!,ME!,Mini Pop Kids,2019-06-07,188753,28,0.626,0.185,0.626,0.791,0.0,0.168,-4.437,0.212,181.826,4
+74,"Carry On (from the Original Motion Picture ""POKÉMON Detective Pikachu"")","Carry On (from the Original Motion Picture ""POKÉMON Detective Pikachu"")",Kygo,2019-04-19,215315,67,0.591,0.381,0.591,0.705,0.000116,0.131,-6.519,0.079,121.799,4
+75,Best Day of My Life,Kidz Bop 26,Kidz Bop Kids,2014-07-15,194040,0,0.705,0.0828,0.705,0.909,0.0,0.0712,-2.696,0.0604,100.035,4
+76,I Don't Care,I Don't Care,Kidz Bop Kids,2019-06-28,221426,37,0.73,0.242,0.73,0.65,1.33e-06,0.078,-5.735,0.0414,102.017,4
+77,Rise,KIDZ BOP World Tour,Kidz Bop Kids,2019-05-24,192333,35,0.789,0.253,0.789,0.704,0.0,0.155,-5.229,0.034,106.031,4
+78,We Go Together,The Secret Life of Pets (Original Motion Picture Soundtrack),Alexandre Desplat,2016-07-01,84080,0,0.648,0.00634,0.648,0.787,3.29e-06,0.443,-6.784,0.048,110.989,4
+79,Break My Heart,Break My Heart,Mini Pop Kids,2020-08-04,223273,32,0.733,0.413,0.733,0.671,0.0,0.133,-6.201,0.0661,113.044,4
+80,Aaron's Party (Come Get It),Most Requested Hits,Aaron Carter,2003-10-21,205826,27,0.926,0.04,0.926,0.904,0.0,0.0405,-3.095,0.139,117.014,4
+81,"Hey Look Ma, I Made It",If I Can’t Have You,Kidz Bop Kids,2019-08-09,161666,38,0.648,0.0111,0.648,0.855,0.0,0.0904,-5.64,0.0414,107.972,4
+82,Cheerleader,KIDZ BOP 30,Kidz Bop Kids,2015-11-06,157306,0,0.71,0.157,0.71,0.646,0.0,0.33,-6.386,0.0359,118.048,4
+83,Happier,Mini Pop Kids 16,Mini Pop Kids,2018-11-16,215586,28,0.718,0.525,0.718,0.714,0.0,0.0575,-5.483,0.036,100.049,4
+84,Bop!,Bop!,JoJo Siwa,2019-02-22,156581,50,0.786,0.0326,0.786,0.952,0.0,0.329,-4.349,0.163,160.007,4
+85,Wonderful Life (Mi Oh My) - From the Angry Birds Movie Original Motion Picture Soundtrack,The Angry Birds Movie (Original Motion Picture Soundtrack),Various Artists,2016-05-06,210920,41,0.871,0.216,0.871,0.754,1.11e-05,0.122,-5.771,0.034,110.969,4
+86,I See Love - From Hotel Transylvania 3,I See Love (From Hotel Transylvania 3),Jonas Blue,2018-06-29,173220,52,0.736,0.0133,0.736,0.706,0.0,0.324,-3.899,0.0438,123.047,4
+87,You're Welcome,Moana (Original Motion Picture Soundtrack/Deluxe Edition),Various Artists,2016-11-18,163893,71,0.788,0.29,0.788,0.745,0.0,0.0373,-7.072,0.258,135.278,4
+88,Hair In The Air (Trolls: The Beat Goes On Theme),DreamWorks Trolls - The Beat Goes On! (Music From Season 1),Various Artists,2018-01-19,134500,0,0.592,0.0317,0.592,0.876,0.000659,0.204,-5.515,0.0855,120.0,4
+89,FRIENDS,KIDZ BOP World Tour,Kidz Bop Kids,2019-05-24,175000,39,0.702,0.222,0.702,0.706,0.0,0.198,-4.434,0.0342,95.0,4
+90,Sunflower,Sunflower,Kidz Bop Kids,2019-04-26,162946,40,0.779,0.206,0.779,0.604,6.02e-06,0.0734,-5.671,0.0519,90.019,4
+91,How Far I'll Go - Alessia Cara Version,Moana (Original Motion Picture Soundtrack/Deluxe Edition),Various Artists,2016-11-18,175506,65,0.31,0.163,0.31,0.54,0.000129,0.0713,-9.629,0.346,180.994,4
+92,Cheap Thrills,KIDZ BOP 33,Kidz Bop Kids,2016-10-14,187626,17,0.499,0.0269,0.499,0.742,0.0,0.269,-3.408,0.0875,179.759,4
+93,Sorry,Kidz Bop 31,Kidz Bop Kids,2016-02-05,182426,0,0.604,0.0313,0.604,0.628,0.0,0.252,-5.725,0.0617,99.859,4
+94,It’s Gonna Be A Lovely Day (The Secret Life of Pets 2),The Secret Life of Pets 2 (Original Motion Picture Soundtrack),Various Artists,2019-05-31,231733,0,0.733,0.168,0.733,0.886,0.0,0.0742,-4.295,0.135,100.033,4
+95,Here With Me,I Don't Care,Kidz Bop Kids,2019-06-28,157453,32,0.711,0.0237,0.711,0.555,0.0,0.195,-6.58,0.0318,99.913,4
+96,Broken & Beautiful,Broken & Beautiful,Kelly Clarkson,2019-03-27,218948,66,0.73,0.0823,0.73,0.732,0.0,0.0757,-2.556,0.0366,112.058,4
+97,I'm a Lady - from SMURFS: THE LOST VILLAGE,I'm a Lady (from SMURFS: THE LOST VILLAGE),Meghan Trainor,2017-02-24,164586,56,0.612,0.0432,0.612,0.691,0.0,0.19,-4.932,0.12,175.003,4
+98,This Is What You Came For,KIDZ BOP 33,Kidz Bop Kids,2016-10-14,159840,14,0.638,0.147,0.638,0.893,1.29e-06,0.154,-3.638,0.0342,123.974,4
+99,Friend Like Me (End Title),Aladdin (Original Motion Picture Soundtrack),Various Artists,2019-05-22,159359,50,0.738,0.278,0.738,0.831,0.0,0.452,-6.213,0.221,97.908,4
